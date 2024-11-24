@@ -28,11 +28,11 @@
 
 - Cadastro das matérias 
 
-# Protipação tela inicial:
+# Prototipação da tela inicial:
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
 
-# Protipação de Alto Nível:
+# Protipação:
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
 
