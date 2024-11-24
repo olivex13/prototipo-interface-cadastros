@@ -32,7 +32,7 @@
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
 
-# Protipação:
+# Prototipação:
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
 
