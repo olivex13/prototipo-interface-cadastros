@@ -30,35 +30,35 @@
 
 # Prototipação da tela inicial:
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/home.PNG)
 
 # Prototipação:
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-top.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/cadastro-fornecedor.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-home-down.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/verificar-cnpj.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-apresentacao.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/cadastrar-produto.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-shop-top.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/cadastrar-professor.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-shop-down.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/cadastrar-aluno.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-carrinho-top.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/verificar-documento.PNG)
 
 
 
-![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipo-carrinho-down.png)
+![Prototipação-baixo-nível-Home](Documentação/Prototipação/verificar-matricula.PNG)
 
 
 ## Link prototipação: 
