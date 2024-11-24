@@ -28,6 +28,9 @@
 
 - Cadastro das matérias 
 
+# Link prototipação: 
+![Interface Cadastros](https://www.figma.com/design/RKzQXyTxSzX6q9LCPgE6vK/PI?node-id=0-1&t=mhex3V4tjRp2cRx0-1)
+
 # Prototipação da tela inicial:
 
 ![Prototipação-baixo-nível-Home](documentacao/prototipacao/prototipacao-baixo-nivel.png)
